@@ -127,6 +127,8 @@ For the next sprint, the client wants to add new administration features:
 You must implement those new features in the application and add on more tests at the future test plan.
 Moreover, make sure that the existing JUnit tests (__AdminTransactionTest__) are OK.
 
+Send a merge request.
+
 #### <a name="exercise5"></a>Exercise 5
 
 For the next application version, Worldline wants to change the management of data in application. Indeed, currently the application stores the accounts and the transactions directly in the JAVA services. 
@@ -137,6 +139,8 @@ In the evaluation case, you must implement a memory database (hsql) in the appli
 
 Make sure that all the JUnit tests are OK.
 
+Send a merge request.
+
 #### <a name="exercise6"></a>Exercise 6
 
 Currently, some services can be used by passing a pageable object in parameter.
@@ -144,3 +148,5 @@ Currently, some services can be used by passing a pageable object in parameter.
 However, this object is never used.
 
 You have to used this object in order to sort and order the list and add more tests at the future test plan.
+
+Send a merge request.
