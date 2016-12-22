@@ -15,7 +15,6 @@
 		* [Exercise 4](#exercise4)
 		* [Exercise 5](#exercise5)
 		* [Exercise 6](#exercise6)
-		* [Exercise 7](#exercise7)
 
 ## <a name="prerequisites"></a>Prerequisites
 
@@ -106,39 +105,29 @@ Understand the project and make several tests on it in the current state
 	* __Verb__ : _GET_
 	* __URL__ : /accounts/__YOUR_ID__
 
-4. Try to execute the JUnit tests in __AccountTest__
+4. Try to execute the JUnit tests in __AccountTest__ and __TransactionTest__
 
 There are any other functions that you can find in the correspondent services.
 
 #### <a name="exercise3"></a>Exercise 3
 
-After several test, the client has found a blocker issue on the application.
-
-An error occurs when the user tries to get the transation list related to an account:
-	* __Verb__ : _GET_
-	* __URL__ : /accounts/__YOUR_ID__/transactions
-
-You must fix this issue and add make sure that the JUnit tests in __TransactionTest__ are OK.
-
-#### <a name="exercise4"></a>Exercise 4
-
 Currently, it is possible to retrieve the transaction list related to an account with the application.
 
 For the next sprint, the client wants to add new administration feature:
-	* Remove a transaction
+* Remove a transaction
 
 You must implement this new feature in the application and add on more tests at the future test plan.
 
-#### <a name="exercise5"></a>Exercise 5
+#### <a name="exercise4"></a>Exercise 4
 
 For the next sprint, the client wants to add new administration features:
-	* Add a new transaction on an account
-	* Update an existing transaction
+* Add a new transaction on an account
+* Update an existing transaction
 
 You must implement those new features in the application and add on more tests at the future test plan.
 Moreover, make sure that the existing JUnit tests (__AdminTransactionTest__) are OK.
 
-#### <a name="exercise6"></a>Exercise 6
+#### <a name="exercise5"></a>Exercise 5
 
 For the next application version, Worldline wants to change the management of data in application. Indeed, currently the application stores the accounts and the transactions directly in the JAVA services. 
 
@@ -148,7 +137,7 @@ In the evaluation case, you must implement a memory database (hsql) in the appli
 
 Make sure that all the JUnit tests are OK.
 
-#### <a name="exercise7"></a>Exercise 7
+#### <a name="exercise6"></a>Exercise 6
 
 Currently, some services can be used by passing a pageable object in parameter.
 
