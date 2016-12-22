@@ -93,7 +93,7 @@ Understand the project and make several tests on it in the current state
 	* __SAAS__ project (Software as a service)
 	* __REST__ server (Representational state transfer)
 		* __Host__ : http://localhost:8080/api
-	* __Webshop service__
+	* __Bank service__
 		* __Account__ Management
 		* __Transaction__ Management
 
