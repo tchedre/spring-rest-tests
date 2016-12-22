@@ -23,7 +23,7 @@ List of prerequisites to realize the test:
    * _Maven_ installed (Version __3.x__)
    * _Git_ Installed (Version __2.x__) 
    * _JAVA JDK_ installed (Version __8__)
-   * _JAVA IDE_ installed (__Eclipse__ / __KazanStudio__ / __IntelliJ IDEA__ / …)
+   * _JAVA IDE_ installed (__Eclipse__ / __IntelliJ IDEA__ / …)
    * _REST Client tool_ to make HTTP Requests 
      * _Chrome_ Extension
        * Postman - REST Client shortcut
