@@ -81,7 +81,7 @@ The code must be Production Ready
 
 Install and run the project on your device/PC
 
-1. Retrieve the __GITHUB__ project (Fork the repository)
+1. Retrieve the __GITHUB__ project : [__Fork the repository__](https://help.github.com/articles/fork-a-repo/)
 2. Mount the project on your development IDE (Eclipse or other …)
 3. Compile the project (Java and Maven compilation)
 4. Launch the project (Launch the Main class of project : com.worldline.fpl.recruitment.StartBoot)
