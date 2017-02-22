@@ -29,7 +29,7 @@ List of prerequisites to realize the test:
        * Postman - REST Client shortcut
        * Sense (Beta)
      * …
-   * Lombok     
+   * [Lombok](https://projectlombok.org/)
 
 ## <a name="eval"></a>Evaluation
 ### <a name="criterias"></a>Criterias
