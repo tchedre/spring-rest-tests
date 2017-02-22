@@ -29,6 +29,7 @@ List of prerequisites to realize the test:
        * Postman - REST Client shortcut
        * Sense (Beta)
      * …
+   * Lombok     
 
 ## <a name="eval"></a>Evaluation
 ### <a name="criterias"></a>Criterias
@@ -117,6 +118,8 @@ For the next sprint, the client wants to add new administration feature:
 * Remove a transaction
 
 You must implement this new feature in the application and add on more tests at the future test plan.
+
+Send a merge request.
 
 #### <a name="exercise4"></a>Exercise 4
 
